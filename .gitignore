@@ -11,3 +11,7 @@ build
 **/__pycache__
 
 **/lightning_logs
+
+dataset/**/*
+logs/*
+.idea
