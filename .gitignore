@@ -7,7 +7,10 @@ vistec-env
 dist
 build
 
-**/*.ipynb*
 **/__pycache__
 
 **/lightning_logs
+
+dataset/**/*
+logs/*
+.idea
